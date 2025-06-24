@@ -35,6 +35,14 @@ Analizar las ventas realizadas en tres sucursales de supermercado en Myanmar dur
 │
 ├── README.md
 
+## 🧹 Limpieza realizada:
+- Formato de fecha uniforme (DD-MM-YYYY)
+- Conversión de hora a formato 24h y categorización por franja horaria
+- Normalización de texto en columnas categóricas (Branch, Payment, etc.)
+- Eliminación de duplicados en Invoice ID
+- Revisión de tipos de datos y valores vacíos
+- Eliminación de columnas innecesarias
+
 ## 🧠 Conclusiones
 <!-- ¿Qué descubriste, qué respuestas encontraste, qué significan los datos? -->
 

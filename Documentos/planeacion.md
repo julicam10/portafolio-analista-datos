@@ -60,9 +60,9 @@ Analizar las ventas realizadas en tres sucursales de supermercado en Myanmar dur
 - README.md completo
 - Tablero de Power Bi con los resultados del análisis
 
-## 🧹 Limpieza aplicada
-- Conversión de fechas al formato estándar (DD-MM-YYYY)
-- Conversión de tiempo al formato hora
-- Normalización (espacios/mayúsculas) en columnas `Branch`, `Product line`
-- Eliminación de duplicados por `Invoice ID`
-- Manejo de nulos (género, cliente) con `SI.ERROR`
+## 🧹 Limpieza esperada:
+- Conversión de fechas y horas al formato correcto
+- Normalización de texto en variables categóricas
+- Eliminación de columnas sin valor analítico
+- Validación de duplicados en Invoice ID
+- Revisión y corrección de datos nulos o inconsistentes
