@@ -23,7 +23,7 @@ Analizar las ventas realizadas en tres sucursales de supermercado en Myanmar dur
 - El día con más ventas realizadas fue el 7 de febrero con un total de 20, mientras que la menor cantidad de ventas fueron 6 y se registraron en 6 días diferentes (02/01/2019, 04/01/2019, 21/02/2019, 28/02/2019, 17/03/2019 y 21/03/2019).
 
 ## 📸 Visualizaciones
-<!-- Inserta o enlaza imágenes relevantes. Puedes usar ![nombre](ruta.png) -->
+![Ventas totales por sucursal](Entregables/1.Ventas totales por sucursal.png)
 
 ## 📂 Estructura del proyecto
 /01-fundamentos-analisis-excel/
