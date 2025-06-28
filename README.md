@@ -1,4 +1,4 @@
-# 📊 Título del Proyecto
+# 📊 Análisis de ventas por sucursales de supermercados en Myanmar 
 
 ## 🎯 Objetivo
 Analizar las ventas realizadas en tres sucursales de supermercado en Myanmar durante el primer trimestre de 2019, con el fin de identificar los productos más vendidos, los patrones de compra por tipo de cliente y los métodos de pago más utilizados.
