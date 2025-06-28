@@ -58,7 +58,6 @@ Analizar las ventas realizadas en tres sucursales de supermercado en Myanmar dur
 - Excel con análisis
 - Capturas de visualizaciones
 - README.md completo
-- Tablero de Power Bi con los resultados del análisis
 
 ## 🧹 Limpieza esperada:
 - Conversión de fechas y horas al formato correcto

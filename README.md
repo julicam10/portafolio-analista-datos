@@ -14,7 +14,13 @@ Analizar las ventas realizadas en tres sucursales de supermercado en Myanmar dur
 - GitHub
 
 ## 📈 Análisis y resultados
-<!-- Breve resumen de tus hallazgos principales, KPIs, etc. -->
+- La sucursal con más ventas es Naypyitaw y la categoría de producto más vendida es la de comida y bebidas.
+- La sucursal con menos ventas es Yagon y la categoría menos vendida es la de salud y belleza.
+- Los hombres realizarón más compras en general. La categoría con mayor número de compras por parte de los hombres es la de deportes y viajes, mientras que la de las muejres es salud y belleza.
+- El método de pago más utiliza es Ewallet.
+- El promedio de ventas es de 1.038.316. Sin embargo, la sucursal Naypyitaw tiene un promedio de ventas superior (1.132.136), siendo esta sucursal la que tiene el  mayor promedio de ventas.
+- El día sábado es el día de la semana que más se realizan transacciones en las 3 sucursales.
+- El día con más ventas realizadas fue el 7 de febrero con un total de 20, mientras que la menor cantidad de ventas fueron 6 y se registraron en 6 días diferentes (02/01/2019, 04/01/2019, 21/02/2019, 28/02/2019, 17/03/2019 y 21/03/2019).
 
 ## 📸 Visualizaciones
 <!-- Inserta o enlaza imágenes relevantes. Puedes usar ![nombre](ruta.png) -->
@@ -43,12 +49,8 @@ Analizar las ventas realizadas en tres sucursales de supermercado en Myanmar dur
 - Revisión de tipos de datos y valores vacíos
 - Eliminación de columnas innecesarias
 
-## 🧠 Conclusiones
-<!-- ¿Qué descubriste, qué respuestas encontraste, qué significan los datos? -->
-
 ## 🧪 Lecciones aprendidas
-<!-- Reflexión personal sobre lo que aprendiste como analista -->
+Como reflexión personal aprendí que se debe ser cuidado con el formato de las fechas, ya que aparentemente dos fechas pueden tener el mismo formato pero no por eso estan bien gestionadas. 
 
 ## 🔗 Enlaces adicionales
-- [Dashboard interactivo (si aplica)]()
-- [Repositorio en GitHub (si es un README en Notion)]()
+- Repositorio en Notion: 
