@@ -61,6 +61,7 @@ Ventas totales por día (gráfico)
 <img src="Entregables/10_Ventas_totales_por_día.png" width="1200" alt="Ventas totales por día" />
 
 ## 📂 Estructura del proyecto
+```
 /01-fundamentos-analisis-excel/
 │
 ├── data/
@@ -72,9 +73,18 @@ Ventas totales por día (gráfico)
 │
 ├── entregable/
 │   └── proyecto_excel.xlsx
-│   └── capturas_graficos.png
+│   └── 1_Ventas_totales_por_sucursal.png
+│   └── 2_Línea_de_producto_más_vendida_por_sucursal.png
+│   └── 3_Línea_de_producto_menos_vendida_por_sucursal.png
+│   └── 4_Total_de_ventas_por_género.png
+│   └── 5_Producto_más_comprado_por_género.png
+│   └── 6_Distribución_de_métodos_de_pago.png
+│   └── 7_Ticket_promedio_por_sucursal.png
+│   └── 9_Transacciones_por_día_de_la_semana.png
+│   └── 10_Ventas_totales_por_día.png
 │
 ├── README.md
+```
 
 ## 🧹 Limpieza realizada:
 - Formato de fecha uniforme (DD-MM-YYYY)
