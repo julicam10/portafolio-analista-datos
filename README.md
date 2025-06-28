@@ -23,15 +23,42 @@ Analizar las ventas realizadas en tres sucursales de supermercado en Myanmar dur
 - El día con más ventas realizadas fue el 7 de febrero con un total de 20, mientras que la menor cantidad de ventas fueron 6 y se registraron en 6 días diferentes (02/01/2019, 04/01/2019, 21/02/2019, 28/02/2019, 17/03/2019 y 21/03/2019).
 
 ## 📸 Visualizaciones
+
+Ventas totales por sucursal
+
 <img src="Entregables/1_Ventas_totales_por_sucursal.png" width="600" alt="Ventas totales por sucursal" />
+
+Línea de producto más vendida por sucursal
+
 <img src="Entregables/2_Línea_de_produco_más_vendida_por_sucursal.png" width="600" alt="Línea de producto más vendida por sucursal" />
+
+Línea de producto menos vendida por sucursal
+
 <img src="Entregables/3_Línea_de_producto_menos_vendida_por_sucursal.png" width="600" alt="Línea de producto menos vendida por sucursal" />
+
+Total de ventas por género
+
 <img src="Entregables/4_Total_de_ventas_por_género.png" width="600" alt="Total de ventas por género" />
+
+Producto más comprado por cada género
+
 <img src="Entregables/5_Producto_mas_comprado_por_género.png" width="600" alt="Producto más comprado por cada género" />
+
+Distribución de métodos de pago
+
 <img src="Entregables/6_Distribución_de_métodos_de_pago.png" width="600" alt="Distribución de método de pago" />
+
+Ticket promedio por cada sucursal
+
 <img src="Entregables/7_Ticket_promedio_por_sucursal.png" width="600" alt="Ticket promedio por sucursal" />
+
+Transacciones por cada día de la semana
+
 <img src="Entregables/9_Transacciones_por_día_de_la_semana.png" width="600" alt="Transacciones por día de la semana" />
-<img src="Entregables/10_Ventas_totales_por_día.png" width="600" alt="Ventas totales por día" />
+
+Ventas totales por día (gráfico)
+
+<img src="Entregables/10_Ventas_totales_por_día.png" width="1200" alt="Ventas totales por día" />
 
 ## 📂 Estructura del proyecto
 /01-fundamentos-analisis-excel/
